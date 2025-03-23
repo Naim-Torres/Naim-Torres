@@ -8,10 +8,6 @@
 
 <h3 align="left">About me</h3>
 
-###
-
-<br clear="both">
-
 <h5 align="left">- 💻 Developer with experience in JavaScript, Python, and React.<br>- 🎥 Cinematography enthusiast – I love storytelling through visuals.<br>- 🎹 Pianist – Music is my creative escape.<br>- 📸 Photographer – Capturing moments and turning them into memories.<br>- 🌱 Currently learning about artificial intelligence and machine learning.<br>- 🚀 I enjoy working on challenging projects</h5>
 
 ###
@@ -21,13 +17,11 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Naim-Torres&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-Torres&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Naim-Torres&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Naim-Torres&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="naimtorrescruz@gmail.com" target="_blank">
@@ -82,11 +76,5 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-plain.svg" height="42" alt="inkscape logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Naim-Torres/Naim-Torres/output/snake.svg" alt="Snake animation" />
 
 ###
